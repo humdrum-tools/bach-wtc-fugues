@@ -58,7 +58,7 @@
 .	8a	.
 32C#	.	.
 32D#J	.	.
-8.D#TL	8f#L	.
+8.D#tL	8f#L	.
 .	8bJ	.
 32C#	.	.
 32D#J	.	.
@@ -126,7 +126,7 @@
 8BBJ	.	8dd
 .	32F#	.
 .	32G#J	.
-4E	8.G#TL	8bL
+4E	8.G#tL	8bL
 .	.	8eeJ
 .	32F#	.
 .	32G#J	.
@@ -210,7 +210,7 @@
 8F	8dJ	.
 .	.	32a
 .	.	32bJ
-8DL	8fL	8.bTL
+8DL	8fL	8.btL
 8GJ	8dJ	.
 .	.	32a
 .	.	32bJ
@@ -218,7 +218,7 @@
 .	8cJ	.
 32E	.	.
 32F#J	.	.
-8.F#TL	8AL	4r
+8.F#tL	8AL	4r
 .	8dJ	.
 32E	.	.
 32F#J	.	.
@@ -227,7 +227,7 @@
 8EJ	.	8g
 .	32B	.
 .	32c#J	.
-4A	8.c#TL	8eL
+4A	8.c#tL	8eL
 .	.	8aJ
 .	32B	.
 .	32c#J	.
@@ -235,7 +235,7 @@
 8D	.	.
 .	.	32f#
 .	.	32g#J
-8BBL	4r	8.g#TL
+8BBL	4r	8.g#tL
 8EJ	.	.
 .	.	32f#
 .	.	32g#J
@@ -281,7 +281,7 @@
 8F#J	.	8aa
 .	32c#	.
 .	32d#J	.
-4B	8.d#TL	8ff#L
+4B	8.d#tL	8ff#L
 .	.	8bbJ
 .	32c#	.
 .	32d#J	.
@@ -384,7 +384,7 @@
 .	8d	.
 32FF#	.	.
 32GG#J	.	.
-8.GG#TL	8BL	[4b
+8.GG#tL	8BL	[4b
 .	8eJ	.
 32FF#	.	.
 32GG#J	.	.
@@ -394,7 +394,7 @@
 .	.	32dd
 32BB	.	32cc
 32CJ	.	32bJ
-8.C#TL	4r	16aL
+8.C#tL	4r	16aL
 .	.	32cc#
 .	.	32ee
 .	.	8ggJ
@@ -405,7 +405,7 @@
 .	32g	.
 32E	32f	.
 32FJ	32eJ	.
-8.F#TL	16dL	4r
+8.F#tL	16dL	4r
 .	32f#	.
 .	32a	.
 .	8ccnJ	.
@@ -418,7 +418,7 @@
 .	8r	16b
 32A	.	32cc
 32BJ	.	32ddJ
-8.BTL	4r	8gL
+8.BtL	4r	8gL
 .	.	8ffJ
 32A	.	.
 32BJ	.	.
@@ -428,7 +428,7 @@
 .	16e	8r
 32d	32f	.
 32eJ	32gJ	.
-8.eTL	8cL	4r
+8.etL	8cL	4r
 .	8b-J	.
 32d	.	.
 32eJ	.	.
@@ -477,7 +477,7 @@
 .	8eeJ	8gg
 32BB	.	.
 32C#J	.	.
-8.C#TL	[4a	8eeL
+8.C#tL	[4a	8eeL
 .	.	8aaJ
 32BB	.	.
 32C#J	.	.
@@ -500,7 +500,7 @@
 .	8ddJ	8ff
 32AA	.	.
 32BBJ	.	.
-8.BBTL	[4g	8ddL
+8.BBtL	[4g	8ddL
 .	.	8ggJ
 32AA	.	.
 32BBJ	.	.
@@ -596,7 +596,7 @@
 .	.	32eL
 .	.	32f#
 .	.	32g#J
-8BBL	4r	8.g#TL
+8BBL	4r	8.g#tL
 8EJ	.	.
 .	.	32f#
 .	.	32g#J
@@ -605,7 +605,7 @@
 .	32BL	.
 .	32c	.
 .	32dJ	.
-8EEL	8.c#TL	.
+8EEL	8.c#tL	.
 8GGJ	.	.
 .	32B	.
 .	32c#J	.
@@ -616,7 +616,7 @@
 .	8fJ	8bJ
 32EE	.	.
 32FFJ	.	.
-8.EETL	8G#L	8eL
+8.EEtL	8G#L	8eL
 .	8BJ	8g#J
 32DD	.	.
 32EEJ	.	.
