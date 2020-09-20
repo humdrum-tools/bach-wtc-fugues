@@ -412,6 +412,7 @@
 .	16B	.
 8EJ	16c#	.
 .	16dJ	.
+*	*clefF4	*
 =25	=25	=25
 8D#L	16BL	4a]
 .	16A	.
@@ -457,6 +458,7 @@
 .	.	16dd#J
 8.AAL	8E]L	16cc#L
 .	.	16b
+*	*clefG2	*
 .	8eJ	16cc#
 16EEJ	.	16ddnJ
 8FF#L	[4a	16cc#L
