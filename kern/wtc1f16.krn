@@ -8,7 +8,7 @@
 !!!RNB: The texture increases to five voices in the final two measures.
 **kern	**kern	**kern	**kern
 *staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
+*clefF4	*clefF4	*clefF4	*clefG2
 *k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
 *M4/4	*M4/4	*M4/4	*M4/4
 *g:	*g:	*g:	*g:
@@ -49,6 +49,7 @@
 .	.	.	16g
 .	.	.	16aJ
 .	.	.	8b-L
+*	*	*clefG2	*
 .	.	8en	16a
 .	.	.	16gJ
 .	.	8fL	8aL
