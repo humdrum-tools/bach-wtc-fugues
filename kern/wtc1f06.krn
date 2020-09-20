@@ -495,14 +495,14 @@
 =43	=43	=43
 *	*	*^
 !! Four-voice material to the end:
-2.D	8r 8r	8r 8r	2.dd
-.	8D 8F#	8a 8cc	.
-.	8E 8GL	8g 8b-L	.
-.	8F# 8AJ	8f# 8aJ	.
-.	8G 8B-L	8e 8gL	.
-.	8E 8GJ	8g 8b-J	.
+2.D	8r 8r	2.dd	8r 8r
+.	8D 8F#	.	8a 8cc
+.	8E 8GL	.	8g 8b-L
+.	8F# 8AJ	.	8f# 8aJ
+.	8G 8B-L	.	8e 8gL
+.	8E 8GJ	.	8g 8b-J
 =44	=44	=44	=44
-2.D;	2.F#; 2.A;	2.f#; 2.a;	2.dd;
+2.D;	2.F#; 2.A;	2.dd;	2.f#; 2.a;
 ==	==	==	==
 *-	*-	*-	*-
 !!!OTA: Das wohltemperirte Clavier
