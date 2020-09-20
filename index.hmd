@@ -1,0 +1,59 @@
+!!!github:	https://github.com/humdrum-tools/bach-wtc-fugues
+!!!pdfprefix:	
+**file	**sort	**available	**pdf	**description	**wikipedia
+
+@101:102:103:104:105:106:107:108:109:110:111:112:113:114:115:116:117:118:119:120:121:122:123:124	100	N	.	<link><not>Piano</not> Sonata No. 1 in C major</link>, K<sup>1</sup> 279 / K<sup>6</sup>189d [1774]	https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier#Book_I
+
+kern/wtc1f01.krn:	101	Y	.	<link>Fugue 1 in C major</link>, BWV 846b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C_major,_BWV_846
+kern/wtc1f02.krn:	102	Y	.	<link>Fugue 2 in C minor</link>, BWV 847b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C_minor,_BWV_847
+kern/wtc1f03.krn:	103	Y	.	<link>Fugue 3 in C-sharp major</link>, BWV 848b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C-sharp_major,_BWV_848
+kern/wtc1f04.krn:	104	Y	.	<link>Fugue 4 in C-sharp minor</link>, BWV 849b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C-sharp_minor,_BWV_849
+kern/wtc1f05.krn:	105	Y	.	<link>Fugue 5 in D major</link>, BWV 850b	.
+kern/wtc1f06.krn:	106	Y	.	<link>Fugue 6 in D minor</link>, BWV 851b	.
+kern/wtc1f07.krn:	107	Y	.	<link>Fugue 7 in E-flat major</link>, BWV 852b	.
+kern/wtc1f08.krn:	108	Y	.	<link>Fugue 8 in D-sharp minor</link>, BWV 853b	.
+kern/wtc1f09.krn:	109	Y	.	<link>Fugue 9 in E major</link>, BWV 854b	.
+kern/wtc1f10.krn:	110	Y	.	<link>Fugue 10 in E minor</link>, BWV 855b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_E_minor,_BWV_855
+kern/wtc1f11.krn:	111	Y	.	<link>Fugue 11 in F major</link>, BWV 856b	.
+kern/wtc1f12.krn:	112	Y	.	<link>Fugue 12 in F minor</link>, BWV 857b	.
+kern/wtc1f13.krn:	113	Y	.	<link>Fugue 13 in F-sharp major</link>, BWV 858b	.
+kern/wtc1f14.krn:	114	Y	.	<link>Fugue 14 in F-sharp minor</link>, BWV 859b	.
+kern/wtc1f15.krn:	115	Y	.	<link>Fugue 15 in G major</link>, BWV 860b	.
+kern/wtc1f16.krn:	116	Y	.	<link>Fugue 16 in G minor</link>, BWV 861b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_G_minor,_BWV_861
+kern/wtc1f17.krn:	117	Y	.	<link>Fugue 17 in A-flat major</link>, BWV 862b	.
+kern/wtc1f18.krn:	118	Y	.	<link>Fugue 18 in G-sharp minor</link>, BWV 863b	.
+kern/wtc1f19.krn:	119	Y	.	<link>Fugue 19 in A major</link>, BWV 864b	.
+kern/wtc1f20.krn:	120	Y	.	<link>Fugue 20 in A minor</link>, BWV 864b	.
+kern/wtc1f21.krn:	121	Y	.	<link>Fugue 21 in B-flat major</link>, BWV 866b	.
+kern/wtc1f22.krn:	122	Y	.	<link>Fugue 22 in B-flat minor</link>, BWV 867b	.
+kern/wtc1f23.krn:	123	Y	.	<link>Fugue 23 in B major</link>, BWV 868b	.
+kern/wtc1f24.krn:	124	Y	.	<link>Fugue 24 in B minor</link>, BWV 869b	.
+
+@201:202:203:204:205:206:207:208:209:210:211:212:213:214:215:216:217:218:219:220:221:222:223:224	200	N	.	<link><not>Piano</not> Sonata No. 1 in C major</link>, K<sup>1</sup> 279 / K<sup>6</sup>189d [1774]	https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier#Book_I
+
+kern/wtc2f01.krn:	201	Y	.	<link>Fugue 1 in C major</link>, BWV 870b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C_major,_BWV_870
+kern/wtc2f02.krn:	202	Y	.	<link>Fugue 2 in C minor</link>, BWV 871b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C_minor,_BWV_871
+kern/wtc2f03.krn:	203	Y	.	<link>Fugue 3 in C-sharp major</link>, BWV 872b	.
+kern/wtc2f04.krn:	204	Y	.	<link>Fugue 4 in C-sharp minor</link>, BWV 873b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C-sharp_minor,_BWV_873
+kern/wtc2f05.krn:	205	Y	.	<link>Fugue 5 in D major</link>, BWV 874b	.
+kern/wtc2f06.krn:	206	Y	.	<link>Fugue 6 in D minor</link>, BWV 875b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_D_minor,_BWV_875
+kern/wtc2f07.krn:	207	Y	.	<link>Fugue 7 in E-flat major</link>, BWV 876b	.
+kern/wtc2f08.krn:	208	Y	.	<link>Fugue 8 in D-sharp minor</link>, BWV 877b	.
+kern/wtc2f09.krn:	209	Y	.	<link>Fugue 9 in E major</link>, BWV 878b	.
+kern/wtc2f10.krn:	210	Y	.	<link>Fugue 10 in E minor</link>, BWV 879b	.
+kern/wtc2f11.krn:	211	Y	.	<link>Fugue 11 in F major</link>, BWV 880b	.
+kern/wtc2f12.krn:	212	Y	.	<link>Fugue 12 in F minor</link>, BWV 881b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_F_minor,_BWV_881
+kern/wtc2f13.krn:	213	Y	.	<link>Fugue 13 in F-sharp major</link>, BWV 882b	.
+kern/wtc2f14.krn:	214	Y	.	<link>Fugue 14 in F-sharp minor</link>, BWV 883b	.
+kern/wtc2f15.krn:	215	Y	.	<link>Fugue 15 in G major</link>, BWV 884b	.
+kern/wtc2f16.krn:	216	Y	.	<link>Fugue 16 in G minor</link>, BWV 885b	.
+kern/wtc2f17.krn:	217	Y	.	<link>Fugue 17 in A-flat major</link>, BWV 886b	.
+kern/wtc2f18.krn:	218	Y	.	<link>Fugue 18 in G-sharp minor</link>, BWV 887b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_G-sharp_minor,_BWV_887
+kern/wtc2f19.krn:	219	Y	.	<link>Fugue 19 in A major</link>, BWV 888b	.
+kern/wtc2f20.krn:	220	Y	.	<link>Fugue 20 in A minor</link>, BWV 889b	.
+kern/wtc2f21.krn:	221	Y	.	<link>Fugue 21 in B-flat major</link>, BWV 890b	.
+kern/wtc2f22.krn:	222	Y	.	<link>Fugue 22 in B-flat minor</link>, BWV 891b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_B-flat_minor,_BWV_891
+kern/wtc2f23.krn:	223	Y	.	<link>Fugue 23 in B major</link>, BWV 892b	.
+kern/wtc2f24.krn:	224	Y	.	<link>Fugue 24 in B minor</link>, BWV 893b	https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_B_minor,_BWV_893
+
+*-	*-	*-	*-	*-	*-
