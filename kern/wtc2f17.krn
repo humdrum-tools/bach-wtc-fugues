@@ -158,6 +158,7 @@
 16FJ	.	.	.
 16GL	8r	2ee-	.
 16F	.	.	.
+*	*clefG2	*	*
 16E-	8g	.	.
 16GJ	.	.	.
 16FL	8a-L	.	.
@@ -534,6 +535,7 @@
 =32	=32	=32	=32
 4E-	8r	16g-L	[2b-
 .	.	16a-	.
+*	*clefF4	*	*
 .	8B-	16g-	.
 .	.	16fJ	.
 4r	8G-L	16e-L	.
@@ -581,9 +583,9 @@
 *	*	*strophe	*
 *	*	*^	*
 *	*	*S/sic	*S/ossia	*
-.	16GL	4rxx	8rxxL	8b-L
+.	16GL	4rxx	8rxx	8b-L
 .	16An	.	.	.
-.	16B-	.	8g-xxJ	8ee-J
+.	16B-	.	8g-xx	8ee-J
 .	16cJ	.	.	.
 =35	=35	=35	=35	=35
 1r	16AnL	4rxx	8fxx	8ccL
@@ -737,6 +739,7 @@
 16F	.	[8e-J	16cc
 16GJ	.	.	16b-J
 [4A-	16A-L	16e-]L	8ccL
+*	*clefG2	*	*
 .	16g-	16b-	.
 .	16f	16a-	8cc-J
 .	16e-J	16g-J	.
