@@ -587,6 +587,7 @@
 .	4A#	.
 8AA#	.	8ff##
 4BB	8r	[4.gg#
+*	*clefF4	*
 .	8D#L	.
 8BB#	[8F#J	.
 =82	=82	=82
@@ -607,6 +608,7 @@
 8D#J	8r	8gg##
 =84	=84	=84
 8C#L	8r	[2.aa#
+*clefG2	*clefG2	*
 8c#	8a#L	.
 8B#J	8b#J	.
 8A#L	4cc#	.
@@ -621,6 +623,7 @@
 8f##	8cc#J	.
 =86	=86	=86
 8g#L	4b#	8aa#]
+*clefF4	*	*
 8G#	.	[4gg#
 8A#J	8cc#	.
 4B	[4.dd#	8gg#]L
@@ -917,6 +920,7 @@
 4.F##	4d#	8a#L
 .	.	8dd#
 .	8D#	8cc#J
+*	*clefF4	*
 =125	=125	=125
 4G#	8G#L	4b
 .	8A#	.
@@ -991,6 +995,7 @@
 8BBL	4D#	8g#L
 16C#	.	8a#
 16BB	.	.
+*	*clefG2	*
 16AA#	8g#	8bJ
 16GG#J	.	.
 [4.DD#	4f##	8a#L

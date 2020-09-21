@@ -7,7 +7,7 @@
 !!!parts: 3
 **kern	**kern	**kern
 *staff2	*staff1	*staff1
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefF4	*clefG2
 *k[f#c#]	*k[f#c#]	*k[f#c#]
 *M3/8	*M3/8	*M3/8
 *b:	*b:	*b:
@@ -286,6 +286,7 @@
 .	16A	16ff#
 .	16c#J	16eeJ
 =41	=41	=41
+*	*clefG2	*
 8DL	16dL	16ff#L
 .	16c#	16aa
 8r	16d	16gg
