@@ -134,12 +134,12 @@
 .	16aJ	.
 8EL	16gL	.
 .	16b-	.
+8AJ	16a	[8ccn
+.	16gJ	.
+=8	=8	=8
 *	*strophe	*
 *	*^	*
 *	*S/sic	*S/ossia	*
-8AJ	16a	16a	[8ccn
-.	16gJ	16gJ	.
-=8	=8	=8	=8
 16DL	16f#xxL	8f#xx	8cc]L
 16d	16dxxJ	.	.
 *	*v	*v	*
@@ -195,6 +195,7 @@
 8AL	8d]L	24fL
 .	.	24e
 .	.	24d
+*	*clefF4	*
 8GJ	8B-J	24c#
 .	.	24d
 .	.	24eJ
@@ -233,6 +234,7 @@
 .	8C#J	8ggnJ
 16AAJ	.	.
 8DD	16DL	8ff#L
+*	*clefG2	*
 .	16a	.
 4D	16b-	8ffnJ
 .	16aJ	.
@@ -337,6 +339,8 @@
 24FF#	8AJ	.
 24GG	.	.
 24AAJ	.	.
+*	*	*Xbrackettup
+!	!	!LO:TUP:r=4
 8GGL	8B-L	24r
 .	.	24dL
 .	.	24e
@@ -344,12 +348,14 @@
 .	.	24e
 .	.	24dJ
 =18	=18	=18
+!	!	!LO:TUP:r=4
 8EE-L	8cL	24r
 .	.	24b-L
 .	.	24a
 8EEnJ	8c#J	24g
 .	.	24a
 .	.	24b-J
+!	!	!LO:TUP:r=4
 8FFL	[4d	24r
 .	.	24aL
 .	.	24b-
@@ -473,6 +479,7 @@
 16AJ	.	.
 16GL	.	4e
 16B-	.	.
+*	*clefF4	*
 16A	8c#	.
 16GJ	.	.
 =24	=24	=24
@@ -520,6 +527,7 @@
 =26	=26	=26
 16r	8FL	8aL
 16EEL	.	.
+*	*clefG2	*
 16FF	8fJ	8ddJ
 16GGJ	.	.
 16AAL	8eL	8cc#L
