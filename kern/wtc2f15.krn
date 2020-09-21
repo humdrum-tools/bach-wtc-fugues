@@ -220,10 +220,10 @@
 .	.	16ee
 8F#L	8cL	16a
 .	.	16ee
-8EJ	[8a 8cc_J	16cc
+8EJ	8cc_ [8aJ	16cc
 .	.	16eeJ
 =31	=31	=31
-16D#L	8a 8cc]L	8ff#
+16D#L	8cc] 8aL	8ff#
 16F#	.	.
 16D#	8bJ	8r
 16F#	.	.
@@ -436,9 +436,9 @@
 .	.	16B-xx	16cxx
 *	*	*v	*v
 *	*	*Xstrophe
-8DD	8GG 8BB-	16E
+8DD	8BB- 8GG	16E
 .	.	16G
-8DDJ	8GG 8BB-J	16B-
+8DDJ	8BB- 8GGJ	16B-
 .	.	16DJ
 =61	=61	=61
 8DD	[4C#t	16r
