@@ -67,7 +67,9 @@
 .	8B-J	16d	.
 .	.	16eJ	.
 4D-	8A-	16fL	.
+*	*	*clefF4	*
 .	.	16En	.
+*	*clefG2	*	*
 .	4f	16F	.
 .	.	16GJ	.
 4C	.	4A-	.
@@ -85,10 +87,12 @@
 .	.	16A-L	.
 .	.	16B-	.
 .	.	16cJ	.
+*	*clefF4	*	*
 4BB-	16r	4d-	.
 .	16B-L	.	.
 .	16A-	.	.
 .	16GJ	.	.
+*	*	*clefG2	*
 =9	=9	=9	=9
 4AAn	4F	16r	1r
 .	.	16cL	.
@@ -111,6 +115,7 @@
 8r	4r	8a-L	.
 16FL	.	16a-	.
 16GJ	.	16b-J	.
+*	*clefG2	*	*
 8A-L	8r	[4cc	.
 16A-	16cL	.	.
 16B-J	16d-J	.	.
@@ -139,6 +144,7 @@
 8r	4r	8d-L	.
 16BB-L	.	16d-	.
 16CJ	.	16e-J	.
+*	*clefF4	*	*
 8D-L	8r	[2f	.
 16D-	16FL	.	.
 16E-J	16GJ	.	.
@@ -282,6 +288,7 @@
 .	.	16cc	8ggJ
 .	.	16ddnJ	.
 .	8r	[2.ee-	[4ccc
+*	*clefG2	*	*
 .	16ccL	.	.
 .	16b-J	.	.
 .	8anL	.	8ccc]L
@@ -321,6 +328,7 @@
 .	16c	16b-	.
 .	16d-J	16a-J	.
 .	8e-L	[4g	.
+*	*clefF4	*	*
 .	8E-J	.	16ee-L
 .	.	.	16dd-J
 .	8A-L	4.g]	8ccL
@@ -385,6 +393,7 @@
 .	.	.	16b-L
 .	.	8b-	16a-
 .	.	.	16gJ
+*	*clefG2	*	*
 4AAn	16r	4cc	4f
 .	16cL	.	.
 .	16dn	.	.
@@ -462,6 +471,7 @@
 8BB-J	.	.	16a-
 .	.	.	16b-J
 8E-L	.	4e-	4cc
+*	*clefF4	*	*
 8CJ	16A-L	.	.
 .	16GJ	.	.
 =35	=35	=35	=35
@@ -661,6 +671,7 @@
 .	16DnJ	16B-J	.
 8FFL	8CL	8A-L	16g]L
 .	.	.	16f
+*	*	*clefF4	*
 8GGJ	8BBnJ	16D	16a-
 .	.	16E-J	16gJ
 8AA-L	4C	8FL	16fL
@@ -676,10 +687,12 @@
 .	.	16BJ	.
 2r	8r	16cL	4aa-
 .	.	16B	.
+*	*clefG2	*	*
 .	4cc	16c	.
 .	.	16dnJ	.
 .	.	4e-	4gg
 .	8b-	.	.
+*	*	*clefG2	*
 =48	=48	=48	=48
 1r	8anL	16r	4ff#
 .	.	16cL	.
@@ -744,6 +757,7 @@
 =52	=52	=52	=52
 1r	8cL	4g	16ff]L
 .	.	.	16ddn
+*	*clefF4	*	*
 .	16B-	.	16een
 .	16A-J	.	16ggJ
 .	8GL	8r	[2.b-
@@ -847,8 +861,10 @@
 !!!AST: polyphony
 !!!AMT: simple quadruple
 !!!SCA: Bach-Werke-Verzeichnis
-!!!YOR: Bach Gesellschaft
-!!!SMS: British Library, various
+!!!YOR: Bach-Gesellschaft Ausgabe, Band 14
+!!!YOO: Breitkopf und Härtel
+!!!YOY: 1866
+!!!YOE: Franz Kroll (1820-1877)
 !!!AIN: cemba; clavi
 !!!YEC: Copyright 1994, David Huron
 !!!YEM: Rights to all derivative electronic formats reserved.
@@ -856,6 +872,6 @@
 !!!END: 1986/11/19
 !!!EED: David Huron
 !!!YER: 1994/08/10
-!!!EEV: 2020/09/19
-!!!EED2: Craig Stuart Sapp (added beams 2020/09/19)
+!!!EED2: Craig Stuart Sapp (notational niceties)
+!!!EEV: 2020/10/02
 !!!EFL: 12/48
