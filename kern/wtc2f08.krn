@@ -581,29 +581,30 @@
 16AA#	.	16cc##	.
 16GG#J	.	16b#J	.
 =45	=45	=45	=45
-*	*	*^	*
+*	*	*	*^
 !! Five-voice material to the end:
-8.AA#L	8E#]L	2r]	8cc##L	8gg#L
-.	16F#	.	16dd#	16ff#
+8.AA#L	8E#]L	2r]	8gg#L]	8cc##L
+.	16F#	.	16ff#	16dd#
 16GG#J	16G#J	.	16ee#J	16ee#J
-8FF#L	8D#L	.	8ff#L	8aa#L
-8AA#J	8E#J	.	8cc##J	8gg#J
-8D#L	8F#L	4r	8dd#L	8ff#L
-8E#J	8BJ	.	8g#J	8cc##J
-8F#L	8A#L	8r	16f#L	[4dd#
-.	.	.	16e#	.
-8GG##J	16D#	8bn	[8f#J	.
+8FF#L	8D#L	.	8aa#L	8ff#L
+8AA#J	8E#J	.	8gg#J	8cc##J
+8D#L	8F#L	4r	8ff#L	8dd#L
+8E#J	8BJ	.	8cc##J	8g#J
+8F#L	8A#L	8r	[4dd#	16f#L
+.	.	.	.	16e#
+8GG##J	16D#	8bn	.	[8f#J
 .	16E#J	.	.	.
 =46	=46	=46	=46	=46
-2AA#	8F#L	2a#	8f#]L	4dd#]
-.	16E#	.	16g#	.
-.	16D#J	.	16f#J	.
-.	8A#L	.	16e#L	4cc##
-.	.	.	16f#	.
-.	8e#J	.	8g#J	.
-2DD#	2d#	2a#	2f##	2dd#
-==	==	==	==	==
-*-	*-	*-	*-	*-
+2AA#	8F#L	2a#	4dd#]	8f#]L
+.	16E#	.	.	16g#
+.	16D#J	.	.	16f#J
+.	8A#L	.	4cc##	16e#L
+.	.	.	.	16f#
+.	8e#J	.	.	8g#J
+2DD#	2d#	2a#	2dd#	2f##
+*	*	*	*v	*v
+==	==	==	==
+*-	*-	*-	*-
 !!!OTA: Das wohltemperirte Clavier
 !!!OCY: Deutschland
 !!!PPP: Leipzig
@@ -625,5 +626,5 @@
 !!!EED: David Huron
 !!!YER: 1994/08/10
 !!!EED2: Craig Stuart Sapp (notational niceties)
-!!!EEV: 2020/09/19
+!!!EEV: 2020/10/05
 !!!EFL: 32/48
