@@ -459,6 +459,7 @@
 =40	=40	=40
 16F#L	8r	[4ccn
 16D	.	.
+*	*clefG2	*
 16C#	8d	.
 16DJ	.	.
 4B-'	8eL	16cc]L
@@ -493,10 +494,11 @@
 .	.	16ee
 .	.	16dd
 .	.	16cc#J
+*	*clefF4	*
 =43	=43	=43
 *	*	*^
 !! Four-voice material to the end:
-2.D	8r 8r	2.dd	8r 8r
+2.D	8r	2.dd	8r
 .	8F# 8D	.	8cc 8a
 .	8G 8EL	.	8b- 8gL
 .	8A 8F#J	.	8a 8f#J
@@ -504,8 +506,9 @@
 .	8G 8EJ	.	8b- 8gJ
 =44	=44	=44	=44
 2.D;	2.A; 2.F#;	2.dd;	2.a; 2.f#;
-==	==	==	==
-*-	*-	*-	*-
+*	*	*v	*v
+==	==	==
+*-	*-	*-
 !!!OTA: Das wohltemperirte Clavier
 !!!OCY: Deutschland
 !!!PPP: Coethen; Cothen
@@ -527,5 +530,5 @@
 !!!EED: David Huron
 !!!YER: 1994/08/10
 !!!EED2: Craig Stuart Sapp (notational niceties)
-!!!EEV: 2020/09/19
+!!!EEV: 2020/10/05
 !!!EFL: 6/48

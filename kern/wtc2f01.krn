@@ -189,6 +189,7 @@
 .	8aL	8.ff#L
 .	8dJ	.
 .	.	16ggJ
+*clefG2	*	*
 =22	=22	=22
 8GL	4b	8ggL
 16g	.	8eeJ
@@ -206,6 +207,7 @@
 .	16a	16ff
 .	16f	16ee
 .	16gJ	16ddJ
+*clefF4	*	*
 =24	=24	=24
 8r	16eL	8cc#
 .	16g	.
@@ -348,6 +350,7 @@
 16BBJ	.	16fJ
 8CL	.	16eL
 .	.	16f
+*	*clefF4	*
 8GGJ	[8B	16d
 .	.	16eJ
 =40	=40	=40
@@ -404,8 +407,9 @@
 16F	.	8d
 16GJ	.	.
 =46	=46	=46
-16EL	8B]L	4g
+16EL	8B]L<	4g
 16D	.	.
+*	*clefG2	*
 16E	8BJ	.
 16FJ	.	.
 16EL	8cL	8aL
@@ -635,6 +639,7 @@
 .	.	16fJ
 4F	.	16eL
 .	.	16f
+*	*clefF4	*
 .	8B	16d
 .	.	16eJ
 =72	=72	=72
@@ -736,8 +741,11 @@
 8r	8r	8r	8bJ
 =83	=83	=83	=83
 2CC	2g 2e	2c	2cc
-==	==	==	==
-*-	*-	*-	*-
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!OTA: Das wohltemperirte Clavier
 !!!OCY: Deutschland
 !!!PPP: Leipzig
@@ -759,5 +767,5 @@
 !!!EED: David Huron
 !!!YER: 1994/08/10
 !!!EED2: Craig Stuart Sapp (notational niceties)
-!!!EEV: 2020/09/19
+!!!EEV: 2020/10/05
 !!!EFL: 25/48

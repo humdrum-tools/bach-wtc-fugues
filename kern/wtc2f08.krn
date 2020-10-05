@@ -8,7 +8,7 @@
 !!!RNB: The texture increases to five voices in the final two measures.
 **kern	**kern	**kern	**kern
 *staff2	*staff2	*staff1	*staff1
-*clefF4	*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*clefG2	*clefG2
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
 *M4/4	*M4/4	*M4/4	*M4/4
 *d#:	*d#:	*d#:	*d#:
@@ -73,6 +73,7 @@
 .	.	16g#J	.
 =7	=7	=7	=7
 8r	8d#L	8f#L	1r
+*	*clefF4	*	*
 8D#	8E#J	8g#J	.
 8D#L	8F#L	8a#L	.
 8D#J	8G#J	8bJ	.
@@ -139,6 +140,7 @@
 .	.	16g#J	.
 =12	=12	=12	=12
 8D#	8F##	8a#L	8cc#]L
+*	*clefG2	*	*
 4G#	4en	8g#J	8bJ
 .	.	4r	[4a#
 8F##	16d#L	.	.
@@ -180,6 +182,7 @@
 8A#L	8c##	1r	8g#]L
 8AA#J	4d#	.	8f#J
 8AA#L	.	.	8e#L
+*	*clefF4	*	*
 8AA#J	[8c#	.	8enJ
 8FF##L	16c#]L	.	[4d#
 .	16B	.	.
@@ -307,6 +310,7 @@
 .	16G#J	.	.
 =24	=24	=24	=24
 4D#	8A#L	8f##L	8dd#
+*	*clefG2	*	*
 .	8enJ	8g#J	8r
 4C#	8eL	[4a#	4r
 .	8eJ	.	.
@@ -446,6 +450,7 @@
 .	.	16e#	.
 16E#	.	8f#J	.
 16D#J	.	.	.
+*	*clefF4	*	*
 16C#L	4c#	8e#L	[4a#
 16BB#	.	.	.
 16AA#	.	16f#	.
@@ -583,25 +588,25 @@
 =45	=45	=45	=45
 *	*	*	*^
 !! Five-voice material to the end:
-8.AA#L	8E#]L	2r]	8gg#L]	8cc##L
-.	16F#	.	16ff#	16dd#
-16GG#J	16G#J	.	16ee#J	16ee#J
-8FF#L	8D#L	.	8aa#L	8ff#L
-8AA#J	8E#J	.	8gg#J	8cc##J
-8D#L	8F#L	4r	8ff#L	8dd#L
-8E#J	8BJ	.	8cc##J	8g#J
-8F#L	8A#L	8r	[4dd#	16f#L
-.	.	.	.	16e#
-8GG##J	16D#	8bn	.	[8f#J
+8.AA#L	8E#]L	8cc##L	8gg#L]	2ryy
+.	16F#	16dd#	16ff#	.
+16GG#J	16G#J	16ee#J	16ee#J	.
+8FF#L	8D#L	8ff#L	8aa#L	.
+8AA#J	8E#J	8cc##J	8gg#J	.
+8D#L	8F#L	8dd#L	8ff#L	4ryy
+8E#J	8BJ	8g#J	8cc##J	.
+8F#L	8A#L	16f#L	[4dd#	8r
+.	.	16e#	.	.
+8GG##J	16D#	[8f#J	.	8bn
 .	16E#J	.	.	.
 =46	=46	=46	=46	=46
-2AA#	8F#L	2a#	4dd#]	8f#]L
-.	16E#	.	.	16g#
-.	16D#J	.	.	16f#J
-.	8A#L	.	4cc##	16e#L
-.	.	.	.	16f#
-.	8e#J	.	.	8g#J
-2DD#	2d#	2a#	2dd#	2f##
+2AA#	8F#L	8f#]L	4dd#]	2a#
+.	16E#	16g#	.	.
+.	16D#J	16f#J	.	.
+.	8A#L	16e#L	4cc##	.
+.	.	16f#	.	.
+.	8e#J	8g#J	.	.
+2DD#	2d#	2f##	2dd#	2a#
 *	*	*	*v	*v
 ==	==	==	==
 *-	*-	*-	*-
